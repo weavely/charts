@@ -1,0 +1,8 @@
+name: mongo
+home: www.mongodb.com
+version: 0.0.1
+description: MongoDB for GIANT Ideas
+maintainers:
+  - tbd
+details:
+  This package provides a basic MongoDB database for development purposes.
